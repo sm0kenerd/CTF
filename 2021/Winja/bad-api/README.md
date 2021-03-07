@@ -55,9 +55,7 @@ We got a redirect, so it’s a wrong secret_key, but we have another secret_key 
 Now we got an HTML response, with the flag!!
 
 ...
-</form>
-> flag\{(censored)\}
-</div>
+##### flag\{(censored)\}
 ...
 
 Keep Hacking!
